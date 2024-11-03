@@ -1,3 +1,9 @@
 transformers
 torch
 emoji
+streamlit
+transformers
+torch
+plotly
+emoji
+pandas
